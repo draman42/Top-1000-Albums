@@ -1,7 +1,6 @@
 /**
  * Divya Raman
- * CS2240
- * Section A
+ * This class defines an Album as an Object with a position, year, score, artist, and album name
  */
 
 #ifndef PROJECT1_ALBUM_H
