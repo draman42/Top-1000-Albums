@@ -1,5 +1,5 @@
 /**
- * Divya Raman
+ * Author: Divya Raman
  * This class defines an Album as an Object with a position, year, score, artist, and album name
  */
 
