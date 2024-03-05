@@ -1,7 +1,6 @@
 /**
- * Divya Raman
- * CS2240
- * Section A
+ * Author: Divya Raman
+ * This program demonstrates the functionality of class "Album.h"
  */
 
 #include "Album.h"
