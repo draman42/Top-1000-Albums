@@ -3,7 +3,7 @@ In this project, I chose a data set containing 1000 albums, wrote a class in C++
 
 **The Data:**
   - Collected from https://tsort.info/music/albums.htm
-  - You may reference the file "top1000albums.csv" to view the data
+  - You may reference "top1000albums.csv" to view the data
   - The data set contains 1000 "top albums" which were ranked according to Tsort's comprehensive scoring system
   - Attributes:
       - Position (each album is ranked from 1-1000)
