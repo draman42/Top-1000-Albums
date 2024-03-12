@@ -1,5 +1,5 @@
 # Top-1000-Albums
-In this project, I chose a data set containing 1000 albums, wrote a class in C++ to represent its information, read each record of data into a vector, and performed a calculation on the data.
+For this project, I chose a data set containing 1000 albums, wrote a class in C++ to represent its information, read each record of data into a vector, and performed a calculation on the data.
 
 **The Data:**
   - Collected from https://tsort.info/music/albums.htm
